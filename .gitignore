@@ -23,9 +23,7 @@ build/
 .idea/
 *.code-workspace
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
+
 
 # Pytest / cobertura
 .pytest_cache/
